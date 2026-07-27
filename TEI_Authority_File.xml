@@ -47,6 +47,14 @@
                Consortium's Board of Directors.</note>
          </person>
 
+		  <person xml:id="testperson001">
+			  <persName>JZ</persName>
+			  <persPronouns>She/Her</persPronouns>
+			  <affiliation>University of Missouri</affiliation>
+			  <occupation>MLIS student</occupation>
+			  <note>a test project for the LEAF-Writer workshop at DH 2026, Daejeon, Korea</note>
+		  </person>
+
       </listPerson>
 
       <!-- Place entities are stored in a <listPlace> element -->
